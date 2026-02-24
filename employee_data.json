@@ -1,0 +1,34 @@
+[
+    {
+        "emp_id":1,
+        "name":"Amit Sharma",
+        "department":"HR",
+        "salary":45000,
+        "experience":3,
+        "city":"Nagpur"
+    },
+    {
+        "emp_id":2,
+        "name":"Priya Verma",
+        "department":"IT",
+        "salary":75000,
+        "experience":5,
+        "city":"Mumbai"
+    },
+    {
+        "emp_id":3,
+        "name":"Rahul Jain",
+        "department":"Finance",
+        "salary":65000,
+        "experience":4,
+        "city":"Pune"
+    },
+    {
+        "emp_id":4,
+        "name":"Sneha Patil",
+        "department":"IT",
+        "salary":82000,
+        "experience":6,
+        "city":"Nagpur"
+    }
+]

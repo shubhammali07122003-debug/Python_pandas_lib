@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,product,category,price,quantity,city,delivery_days
+5001,2024-02-01,C001,Laptop,Electronics,55000,1,Nagpur,3
+5002,2024-02-02,C002,Phone,Electronics,30000,2,Mumbai,5
+5003,2024-02-03,C003,Shoes,Fashion,4000,3,Pune,4
+5004,2024-02-04,C001,Watch,Fashion,7000,1,Nagpur,2
+5005,2024-02-05,C004,Tablet,Electronics,25000,1,Delhi,6
